@@ -1,9 +1,12 @@
 
-h4{
+.heading{
 	background-color:purple;
 	width:200px;
-	font size:20px;
-	border-left:10px green;
+	border-left-style:solid;
+	border-left-color:green;
+	border-left-width:5px;
+	font-size:20px;
+
 	padding:10px;
 	color:white;
 }
